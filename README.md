@@ -73,6 +73,6 @@
 </table>
 
 
-
+<hr>
 
 Tinder App With Flutter &amp; Animation Cool 🚀
