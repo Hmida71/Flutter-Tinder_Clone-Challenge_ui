@@ -2,7 +2,7 @@
 
 <hr>
 
-<h6>EXMP</h6>
+<h6>EXM</h6>
 <table>
 <thead>
 <tr>
